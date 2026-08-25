@@ -13,4 +13,4 @@
   </a>
 </p>
 
-![github contribution snake](https://raw.githubusercontent.com/JKYovo/JKYovo/output/github-snake.svg?v=20260824004942)
+![github contribution snake](https://raw.githubusercontent.com/JKYovo/JKYovo/output/github-snake.svg?v=20260825004849)
